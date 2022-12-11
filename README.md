@@ -17,3 +17,5 @@ En la pagina principal del repositorio aparece un boton verde  **code** aparece 
 desde terminal de ubuntu colocarse en el directorio donde se colocara el repositorio
 
         git clone [URL copiada desde Github]
+        
+![Git Clone]()
