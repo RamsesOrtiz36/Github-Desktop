@@ -11,6 +11,12 @@ Crear repositorio con las siguientes caracteristicas:
 * Activar casilla README (adjunta un archivo de txto con formato markdown que sirve para instrucciones)
 * Crear repositorio
 
+Crear repositorio
+![Crear repositorio](https://github.com/RamsesOrtiz36/Github-Desktop/blob/main/github%20%20repositorio.png)
+
+Configurar repositorio
+![Configuar repositorio](https://github.com/RamsesOrtiz36/Github-Desktop/blob/main/Github%20new%20repositorio.png)
+
 Para que el contenido del repositorio este disponible en la computadora se tiene que **clonar**
 En la pagina principal del repositorio aparece un boton verde  **code** aparece la URL del repositorio que enlaza
 
