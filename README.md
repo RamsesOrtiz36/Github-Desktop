@@ -18,4 +18,4 @@ desde terminal de ubuntu colocarse en el directorio donde se colocara el reposit
 
         git clone [URL copiada desde Github]
         
-![Git Clone]()
+![Git Clone](https://github.com/RamsesOrtiz36/Github-Desktop/blob/main/Git%20clone.png)
