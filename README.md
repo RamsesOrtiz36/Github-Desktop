@@ -20,19 +20,21 @@ Con este programa podran clonar las carpetas de GitHub de la nube a la computado
 ## Github
 Para poder realizar control de versiones de forma remota y colaborativa se usa GitHub.
 **Crea cuenta en la pagina web de Github.**
-No olvidar la contraseña
+**No olvidar la contraseña**
 
 Crear repositorio con las siguientes caracteristicas:
 * Nombre
 * Descripción
 * Tipo publico (el tipo privado debe tener cuenta de paga)
 * Activar casilla README (adjunta un archivo de txto con formato markdown que sirve para instrucciones)
-* Crear repositorio
+* Crear repositorio.
 
-Crear repositorio
+Crear repositorio.
+
 ![Crear repositorio](https://github.com/RamsesOrtiz36/Github-Desktop/blob/main/github%20%20repositorio.png)
 
-Configurar repositorio
+Configurar repositorio.
+
 ![Configuar repositorio](https://github.com/RamsesOrtiz36/Github-Desktop/blob/main/Github%20new%20repositorio.png)
 
 ## Clonar repositorios
